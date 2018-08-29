@@ -1,7 +1,7 @@
 Add a new file aaa.txt.
 Commit to remote repository.
 
-Add new row.
+Git is a free software.
 
 Creating a new branch is quick and simple.
 Update aaa file for testing merge.
